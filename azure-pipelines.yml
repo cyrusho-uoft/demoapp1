@@ -8,7 +8,7 @@ trigger:
 
 pool:
   name: linux-hkelsulv005
-  name: Default
+#  name: Default
 
 steps:
 - script: echo Hello, world!
