@@ -14,5 +14,5 @@ steps:
 
 - script: |
     echo Add other tasks to build, test, and deploy your project.
-    echo $(timedate -l)
+    date '+%A %W %Y %X'
   displayName: 'Run a multi-line script'
